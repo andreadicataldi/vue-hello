@@ -1,6 +1,7 @@
 var root = new Vue({
   el: "#root",
   data: {
-    message: "Questo è un messaggio all'interno di un H1, utilizzando i data",
-  }
-})
+    message: "Wake the f*** up Samurai. We have a city to burn.",
+    img: "cyberpunk-2077.jpg",
+  },
+});
